@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+J2,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,141.5,-69.5,180,bottom
+J3,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,159.5,-69.5,180,bottom
+J4,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,153.04,-117.5,90,bottom
