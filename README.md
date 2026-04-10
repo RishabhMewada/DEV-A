@@ -37,6 +37,8 @@ Dev-A is an devboard based on the RP2040 microcontroller , made for projects int
 - Firmware (Aurdino IDE)
 - Images
 
+  <p align="center">
+<img width="400" height="676" alt="JLPCB" src="https://github.com/user-attachments/assets/95b401da-90d8-4528-98b0-d1a651d6b60e" />
 
 ## License 
 
